@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "501e9c3bfa29376a3b64655d",
+  "owner": "ssxywc54xcv",
+  "repo": "page-37b080b224129965b739aa85",
+  "title": "免费clash订阅",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "37b080b224129965b739aa85",
+      "a": "胡桃云(Hutao)",
+      "b": "免费clash订阅",
+      "entity": "胡桃云(Hutao)",
+      "brand": "免费clash订阅",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "0ac8d470bdd1295a0359dee7d1b37d3833a70189099882d0710e20f4271fdec9",
+      "content": {
+        "primary_entity": "胡桃云(Hutao)",
+        "keyword1": "胡桃云(Hutao)",
+        "keyword2": "免费clash订阅",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择对应客户端，路由器与桌面端导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量需求选定套餐，完成订阅配置即可起步。",
+          "AI_CLOSING_TITLE": "选对套餐，轻松连接",
+          "AI_DESCRIPTION": "，胡桃云(Hutao)提供基础版、旗舰版与团队版三档方案，月流量从 100GB 到 1000GB 不等，设备同时在线数覆盖 3 台至 20 台。旗舰版配备 IPLC 专线与全节点流媒体解锁，团队版支持企业定制路由与专属客户经理。无论个人日常使用还是多人协同，都能按设备数量与流量需求匹配到合适的订阅周期。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个维度快速定位适合自己的方案。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、支持 3 台设备，适合手机与电脑轻度配合使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、支持 5 台设备，含 IPLC 专线，适合游戏与流媒体场景。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、支持 20 台设备，可定制企业路由并配专属客户经理。",
+          "AI_FEATURE_TITLE_1": "个人轻量",
+          "AI_FEATURE_TITLE_2": "进阶多场景",
+          "AI_FEATURE_TITLE_3": "多人协作",
+          "AI_GUIDE_INTRO": "三步完成从选择到配置的完整流程，按客户端文档导入订阅即可使用。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "胡桃云(Hutao)面向需要稳定连接的用户，提供多档流量与设备方案，覆盖日常浏览、流媒体与游戏加速场景。按设备数量与流量需求选择套餐，参考客户端文档导入订阅，即可开始使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，灵活适配设备",
+          "AI_HIGHLIGHT_1": "月流量 100GB 起，最高 1000GB",
+          "AI_HIGHLIGHT_2": "同时在线设备 3 台至 20 台",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线加速",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版适合流媒体与游戏，团队版面向多人协同，可按年付节省费用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常使用设备数量与月流量需求，从基础版、旗舰版与团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认所选套餐的流量额度、设备上限与线路类型是否覆盖自己的使用场景。",
+          "AI_STEP_TEXT_3": "参照对应客户端的订阅导入文档完成配置，桌面端与路由器均按设备选择客户端。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "按文档配置订阅",
+          "AI_VISUAL_TITLE": "胡桃云套餐一览",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB、支持3台设备；旗舰版每月300GB、支持5台设备；团队版每月1000GB、支持20台设备。按使用人数和流量选择即可。",
+          "AI_FAQ_ANSWER_2": "在支持订阅导入的客户端里粘贴服务方提供的订阅地址，或在客户端文档指导下手动配置。不同设备步骤有差异，以客户端说明为准。",
+          "AI_FAQ_ANSWER_3": "三档套餐都列出了最大同时在线设备数：基础版3台、旗舰版5台、团队版20台。超出时可关闭不用的设备，或升级到团队版。",
+          "AI_FAQ_ANSWER_4": "旗舰版和团队版包含流媒体原生解锁与高带宽节点，旗舰版还有IPLC专线游戏加速优化。基础版可解锁基础流媒体。",
+          "AI_FAQ_ANSWER_5": "月付价格分别为15元、35元和85元；按年付分别约150元、350元和850元。长期使用选择年付更划算。",
+          "AI_FAQ_INTRO": "套餐对比、设备限制、订阅导入与年付价格。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版、团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "胡桃云订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "同一时间可以在多少台设备上使用？",
+          "AI_FAQ_QUESTION_4": "流媒体和游戏加速有区别吗？",
+          "AI_FAQ_QUESTION_5": "月付和年付价格分别是多少？",
+          "AI_FAQ_TITLE": "订阅与套餐疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "ec089c25b3b4a4c9e343a49f96ba31bad49d1efa2262fc7d7a45b32040e9acc1",
+    "sitemap.xml": "b2773703fa5428286c555c85c79475be54f30a6072e42a5ac45010c97a9891ca",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "760afa169a1e3601d6c1b2a7a1eb9e3e05375eff0c89f18f5bbe923be20ee9f2"
+}
